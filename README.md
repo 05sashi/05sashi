@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Sashidhar Reddy Putluru
-- 🌱 I’m currently pursuing Bachelor of Technology 3rd year in Vellore Institute of Technoloy, Chennai Campus
-- 💞️ I’m looking to collaborate on many more different full stack mern development projects
-- 📫 +91 9392440588
-- 😄 Pronouns: he/him
+👋 Hi there! I'm Sashidhar Reddy Putluru
 
-<!---
-05sashi/05sashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+  🎓 B.Tech, 3rd Year at Vellore Institute of Technology, Chennai Campus
+  💡 Full-Stack Developer focused on creating dynamic, responsive web applications
+  🧑‍💻 Constantly learning and applying new tech skills, currently focused on the MERN stack and Tailwind CSS
+  
+🌱 Skills & Interests
+  Frontend: React, Tailwind CSS
+  Backend: Node.js, Express
+  Database: MongoDB, SQL
+  Version Control: Git & GitHub
+  💞️ Actively seeking collaboration on full-stack MERN development projects
+  
+📫 Get in Touch
+  Phone: +91 9392440588
+  Email: putlurusasidharreddy@gmail.com
+  Linkedin: https://www.linkedin.com/in/putluru-sashidhar-reddy-5b6110278/
+  GitHub: Explore my repositories and projects right here!
+  
+💼 Pronouns
+  😄 he/him
